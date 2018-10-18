@@ -1,0 +1,10 @@
+.idea
+target
+.out
+.SimpleAuctions.iml
+databaseUser.csv
+TestDatabaseUser.csv
+databaseAuction.csv
+TestDatabaseAuction.csv
+
+
